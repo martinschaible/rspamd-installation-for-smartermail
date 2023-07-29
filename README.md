@@ -8,7 +8,7 @@ Rspamd runs on a separate linux server.
 
 The installation isn't really hard, but the configuration could be tricky and needs time to understand concept :bulb: 
 
-Let's head over the [Wiki](../../wiki). I think one hour time is enough to accomplish this work.
+:arrow_right: Let's head over the [Wiki](../../wiki). I think one hour time is enough to accomplish this work.
 
 ### Additional Links:
 
