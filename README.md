@@ -12,10 +12,8 @@ The installation isn't really hard, but the configuration could be tricky and ne
 
 ### Links:
 
-:link: [Rspamd Documentation](https://rspamd.com/doc/index.html)
-
-:link: [Rspamd Github](https://github.com/rspamd/rspamd)
-
+:link: [Rspamd Documentation](https://rspamd.com/doc/index.html)<br>
+:link: [Rspamd Github](https://github.com/rspamd/rspamd)<br>
 :link: [Deploying Rspamd For Use With SmarterMail](https://portal.smartertools.com/kb/a3595/deploying-rspamd-for-use-with-smartermail.aspx?KBSearchID=904007)
 
 ## What's next?
