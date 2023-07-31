@@ -14,10 +14,10 @@ Rspamd runs on a separate linux server. The installation isn't really hard, but 
 :link: [Rspamd Github](https://github.com/rspamd/rspamd)<br>
 :link: [Deploying Rspamd For Use With SmarterMail](https://portal.smartertools.com/kb/a3595/deploying-rspamd-for-use-with-smartermail.aspx?KBSearchID=904007)
 
-You found an error, a typo or my english is to bad? Then open an [issue](/rspamd-installation-for-smartermail/issues).
+You found an error, a typo or my english is to bad? Then please open an issue.
 
 ### What's next?
 
 Rspamd needs tweaking to combat against spam. New specific modules have to be developed, which mainly combat country-specific spam and malware.
-For this, i will create a separate a new repository.
+For this, i will create a new repository.
 
