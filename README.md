@@ -18,6 +18,6 @@ You found an error, a typo or my english is to bad? Then please open an issue.
 
 ### What's next?
 
-Rspamd needs tweaking to combat against spam. New specific modules have to be developed, which mainly combat country-specific spam and malware.
-For this, i will create a new repository.
+Rspamd needs tweaking to combat against spam. New specific modules have to be developed to combat global and country-specific spam and malware.
+For this, i will create a new repository soon.
 
