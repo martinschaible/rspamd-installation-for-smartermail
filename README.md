@@ -19,5 +19,5 @@ You found an error, a typo or my english is to bad? Then please open an issue.
 ### What's next?
 
 Rspamd needs tweaking to combat against spam. New specific rules have to be developed to combat global and country-specific spam and malware.
-I started this already. I can find the files [here](https://github.com/martinschaible/rspamd-rules)
+I started this already. You can find the files [here](https://github.com/martinschaible/rspamd-rules).
 
