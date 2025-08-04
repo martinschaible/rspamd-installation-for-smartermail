@@ -6,7 +6,7 @@ Since build 8510 (April 20, 2023) [SmarterMail](https://www.smartertools.com/sma
 
 Rspamd runs on a separate linux server. The installation isn't really hard, but the configuration could be tricky and needs time to understand :bulb: 
 
-:arrow_right: :arrow_right: :bookmark: [Wiki](../../wiki)
+:arrow_right: :arrow_right: [Click here to go to the Wiki](../../wiki)
 
 ### Links:
 
