@@ -1,4 +1,4 @@
-## Rspamd Installation for use with Smartermail
+## Rspamd Installation for use with SmarterMail
 
 :fire: This is a guide to install and configure Rspamd for use with SmarterMail.
 
