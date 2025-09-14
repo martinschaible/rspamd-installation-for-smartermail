@@ -21,3 +21,4 @@ Did you find a bug or my English is too poor? Then please open an issue.
 Rspamd needs tweaking to combat against spam. New specific rules have to be developed to combat global and country-specific spam and malware.
 You can find the files [here](https://github.com/martinschaible/rspamd-rules).
 
+<p align="center">Made with :heart: and :coffee:</p>
