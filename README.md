@@ -6,11 +6,7 @@
 
 Since build 8510 (April 20, 2023) [SmarterMail](https://www.smartertools.com/smartermail/business-email-server) supports the long-awaited spam filtering system called  [Rspamd](https://rspamd.com/).
 
-Rspamd runs on a separate linux server. The installation isn't really hard, but the configuration could be tricky and needs time to understand :bulb: 
-
 :arrow_right: :arrow_right: [Click here to go to the Wiki](../../wiki)
-
-:link: [Smartertools: Deploying Rspamd For Use With SmarterMail](https://portal.smartertools.com/kb/a3595/deploying-rspamd-for-use-with-smartermail.aspx?KBSearchID=904007)
 
 ### What's next?
 
