@@ -1,5 +1,7 @@
 ## Rspamd Installation for use with SmarterMail
 
+:bangbang: This page is currently being replaced by this [comprehensive guide](https://github.com/martinschaible/guide-installing-mailserver-smartermail-almalinux/wiki).
+
 :fire: This is a guide to install and configure Rspamd for use with SmarterMail.
 
 Since build 8510 (April 20, 2023) [SmarterMail](https://www.smartertools.com/smartermail/business-email-server) supports the long-awaited spam filtering system called  [Rspamd](https://rspamd.com/).
