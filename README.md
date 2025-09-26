@@ -10,13 +10,7 @@ Rspamd runs on a separate linux server. The installation isn't really hard, but 
 
 :arrow_right: :arrow_right: [Click here to go to the Wiki](../../wiki)
 
-### Links:
-
-:link: [Rspamd Documentation](https://rspamd.com/doc/index.html)<br>
-:link: [Rspamd Github](https://github.com/rspamd/rspamd)<br>
 :link: [Smartertools: Deploying Rspamd For Use With SmarterMail](https://portal.smartertools.com/kb/a3595/deploying-rspamd-for-use-with-smartermail.aspx?KBSearchID=904007)
-
-Did you find a bug or my English is too poor? Then please open an issue.
 
 ### What's next?
 
